@@ -1,0 +1,32 @@
+{
+  "name": "lab-08-express-routing",
+  "version": "1.0.0",
+  "description": "## Project Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyerthb/lab-08-express-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyerthb/lab-08-express-routing/issues"
+  },
+  "homepage": "https://github.com/heyerthb/lab-08-express-routing#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "mongodb-memory-server": "^6.0.1",
+    "mongoose": "^5.7.6",
+    "mongoose-schema-jsonschema": "^1.2.1",
+    "morgan": "^1.9.1",
+    "supertest": "^4.0.2",
+    "uuid": "^3.3.3"
+  }
+}
